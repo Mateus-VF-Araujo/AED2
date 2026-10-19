@@ -1,0 +1,280 @@
+{
+  "modo": "manual",
+  "limite": 18,
+  "seed": 42,
+  "dados": "populacao_completa",
+  "comparacoes": {
+    "cn_tradicional": {
+      "disponiveis": 5353,
+      "selecionados": [
+        "言",
+        "子",
+        "見",
+        "化",
+        "手",
+        "方",
+        "人",
+        "語",
+        "動",
+        "上",
+        "式",
+        "通",
+        "間",
+        "馬",
+        "無",
+        "行",
+        "生",
+        "線"
+      ],
+      "ausentes": [],
+      "top_frequency": [
+        "子",
+        "大",
+        "人",
+        "不",
+        "一",
+        "山",
+        "水",
+        "中",
+        "心",
+        "生",
+        "頭",
+        "無",
+        "地",
+        "天",
+        "自",
+        "性",
+        "小",
+        "家"
+      ],
+      "contagens": [
+        {
+          "caractere": "言",
+          "grau_cn": 358,
+          "grau_jp": 1757
+        },
+        {
+          "caractere": "子",
+          "grau_cn": 1827,
+          "grau_jp": 3295
+        },
+        {
+          "caractere": "見",
+          "grau_cn": 289,
+          "grau_jp": 1336
+        },
+        {
+          "caractere": "化",
+          "grau_cn": 651,
+          "grau_jp": 1881
+        },
+        {
+          "caractere": "手",
+          "grau_cn": 633,
+          "grau_jp": 2317
+        },
+        {
+          "caractere": "方",
+          "grau_cn": 400,
+          "grau_jp": 1128
+        },
+        {
+          "caractere": "人",
+          "grau_cn": 1746,
+          "grau_jp": 3507
+        },
+        {
+          "caractere": "語",
+          "grau_cn": 481,
+          "grau_jp": 1530
+        },
+        {
+          "caractere": "動",
+          "grau_cn": 694,
+          "grau_jp": 1852
+        },
+        {
+          "caractere": "上",
+          "grau_cn": 637,
+          "grau_jp": 2144
+        },
+        {
+          "caractere": "式",
+          "grau_cn": 300,
+          "grau_jp": 901
+        },
+        {
+          "caractere": "通",
+          "grau_cn": 443,
+          "grau_jp": 1225
+        },
+        {
+          "caractere": "間",
+          "grau_cn": 272,
+          "grau_jp": 1516
+        },
+        {
+          "caractere": "馬",
+          "grau_cn": 775,
+          "grau_jp": 704
+        },
+        {
+          "caractere": "無",
+          "grau_cn": 822,
+          "grau_jp": 2073
+        },
+        {
+          "caractere": "行",
+          "grau_cn": 640,
+          "grau_jp": 1992
+        },
+        {
+          "caractere": "生",
+          "grau_cn": 898,
+          "grau_jp": 2238
+        },
+        {
+          "caractere": "線",
+          "grau_cn": 420,
+          "grau_jp": 1126
+        }
+      ]
+    },
+    "cn_simplificado": {
+      "disponiveis": 3599,
+      "selecionados": [
+        "言",
+        "子",
+        "化",
+        "手",
+        "方",
+        "人",
+        "上",
+        "式",
+        "通",
+        "行",
+        "来",
+        "生",
+        "切",
+        "小",
+        "部",
+        "字",
+        "如",
+        "天"
+      ],
+      "ausentes": [],
+      "top_frequency": [
+        "子",
+        "大",
+        "人",
+        "不",
+        "一",
+        "国",
+        "山",
+        "水",
+        "学",
+        "中",
+        "心",
+        "生",
+        "地",
+        "天",
+        "自",
+        "性",
+        "小",
+        "家"
+      ],
+      "contagens": [
+        {
+          "caractere": "言",
+          "grau_cn": 358,
+          "grau_jp": 1757
+        },
+        {
+          "caractere": "子",
+          "grau_cn": 1818,
+          "grau_jp": 3295
+        },
+        {
+          "caractere": "化",
+          "grau_cn": 651,
+          "grau_jp": 1881
+        },
+        {
+          "caractere": "手",
+          "grau_cn": 631,
+          "grau_jp": 2317
+        },
+        {
+          "caractere": "方",
+          "grau_cn": 400,
+          "grau_jp": 1128
+        },
+        {
+          "caractere": "人",
+          "grau_cn": 1745,
+          "grau_jp": 3507
+        },
+        {
+          "caractere": "上",
+          "grau_cn": 636,
+          "grau_jp": 2144
+        },
+        {
+          "caractere": "式",
+          "grau_cn": 300,
+          "grau_jp": 901
+        },
+        {
+          "caractere": "通",
+          "grau_cn": 443,
+          "grau_jp": 1225
+        },
+        {
+          "caractere": "行",
+          "grau_cn": 640,
+          "grau_jp": 1992
+        },
+        {
+          "caractere": "来",
+          "grau_cn": 378,
+          "grau_jp": 580
+        },
+        {
+          "caractere": "生",
+          "grau_cn": 898,
+          "grau_jp": 2238
+        },
+        {
+          "caractere": "切",
+          "grau_cn": 159,
+          "grau_jp": 1427
+        },
+        {
+          "caractere": "小",
+          "grau_cn": 716,
+          "grau_jp": 1486
+        },
+        {
+          "caractere": "部",
+          "grau_cn": 231,
+          "grau_jp": 1028
+        },
+        {
+          "caractere": "字",
+          "grau_cn": 375,
+          "grau_jp": 1005
+        },
+        {
+          "caractere": "如",
+          "grau_cn": 318,
+          "grau_jp": 197
+        },
+        {
+          "caractere": "天",
+          "grau_cn": 790,
+          "grau_jp": 1157
+        }
+      ]
+    }
+  }
+}
