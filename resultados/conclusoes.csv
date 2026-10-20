@@ -1,0 +1,3 @@
+comparacao,compartilhados,jaccard_definido,jaccard_medio,jaccard_mediano,jaccard_zero,suporte_minimo,com_suporte_minimo,jaccard_medio_com_suporte
+cn_tradicional × japones,5353,5181,0.12041394602802159,0.08695652173913043,1436,3,3488,0.12803700819153283
+cn_simplificado × japones,3599,3434,0.13511601492190986,0.10526315789473684,909,3,2475,0.14344397826032532
