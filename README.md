@@ -12,9 +12,11 @@ notebook: [LOTUS.ipynb](LOTUS.ipynb).
 - Mateus Vinicius Figueredo de Araújo; 20260000707
 - Matheus Bezeril Pinto ; 20260000716
 
-## Vídeo
+## Links Complementares
 
-[LINK DO VÍDEO NO YOUTUBE]
+[LINK DO VÍDEO NO YOUTUBE](about:blank)
+
+[Visualização dos Grafos do Projeto](https://mateus-vf-araujo.github.io/grafos_AED2/)
 
 ## Problema e pergunta
 
