@@ -19,7 +19,7 @@ notebook: [LOTUS.ipynb](LOTUS.ipynb).
 
 [LINK DO VÍDEO NO YOUTUBE](about:blank)
 
-[Visualização dos Grafos do Projeto](https://mateus-vf-araujo.github.io/grafos_AED2/)
+[Visualização dos Grafos Interativos do Projeto](https://mateus-vf-araujo.github.io/grafos_AED2/)
 
 ## Problema e pergunta
 
