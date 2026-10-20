@@ -1,4 +1,5 @@
-![Texto Alternativo da Imagem](URL_da_Imagem)
+![Texto Alternativo da Imagem](ZISU.jpg)
+<sub>**Zhejiang International Studies University (ZISU)** — Hangzhou, China.</sub>
 
 # L.O.T.U.S. (Linguística Oriental: análise das relações ortográficas entre japonês e chinês por meio da teoria dos grafos.)
 
