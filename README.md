@@ -45,7 +45,7 @@ O código analisa como os caracteres se combinam nas palavras. As definições d
 dicionários estão disponíveis para consulta, mas não entram no cálculo do Jaccard.
 
 Por exemplo, 手紙 costuma significar “carta” em japonês e “papel higiênico” em chinês. 
-As formas têm os mesmos caracteres: a rede que registra apenas palavra → caracteres não 
+As formas têm os mesmos caracteres, por isso, a rede que registra apenas palavra → caracteres não 
 consegue reconhecer essa diferença de significado.
 
 ## Dados: fonte, obtenção e limpeza
