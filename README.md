@@ -379,10 +379,3 @@ interpretações sem evidência. As assinaturas de referência só devem ser atu
   [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
   Os CSVs de amostras e de análise qualitativa contêm dados derivados dessas fontes e mantêm esses créditos e licença.
 - [NetworkX: redes bipartidas e projeções](https://networkx.org/documentation/stable/reference/algorithms/bipartite.html).
-- Material do professor, conferido no commit `d28b316438a64d9abd5f754a66685d507d5b2764`:
-  [semana 2, aula 3](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week02/lesson03.ipynb),
-  [semana 4, prática §9](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week04/practice.ipynb),
-  [semana 5, aula 7 §2](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week05/lesson07.ipynb) e
-  [semana 6, aula 8 §5.6–5.8](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week06/lesson08.ipynb).
-  A aula 8 calcula grau, força, core e clustering de redes de coocorrência; o Jaccard
-  do projeto adapta a comparação de conjuntos para os contextos entre idiomas.
