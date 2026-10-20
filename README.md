@@ -1,4 +1,6 @@
-# L.O.T.U.S. (Linguística Oriental: Topologia de Usos Semânticos): contextos lexicais em chinês e japonês
+![Texto Alternativo da Imagem](URL_da_Imagem)
+
+# L.O.T.U.S. (Linguística Oriental: análise das relações ortográficas entre japonês e chinês por meio da teoria dos grafos.)
 
 Projeto da Unidade 1 de Algoritmos e Estruturas de Dados II. Redes de palavras e
 caracteres construídas a partir de dois dicionários reais, com análise em um único
@@ -20,10 +22,19 @@ notebook: [LOTUS.ipynb](LOTUS.ipynb).
 
 ## Problema e pergunta
 
-Estudantes de japonês e chinês encontram caracteres iguais em palavras de línguas
-diferentes. Quais caracteres compartilhados apresentam contextos de coocorrência
-mais semelhantes ou diferentes nos dicionários CC-CEDICT e JMdict? O resultado
-muda ao comparar o japonês com o chinês tradicional ou simplificado?
+Normalmente, ouvimos que aprender uma nova língua pode ser difícil. No entanto, em muitos casos,
+grafias, palavras e significados apresentam semelhanças entre diferentes idiomas. Reconhecer 
+essas semelhanças entre a língua materna e uma nova língua pode facilitar o processo de aprendizado. 
+Pensando nisso, apresentamos o L.O.T.U.S.
+
+Neste trabalho, buscamos comparar o japonês com o chinês tradicional e o chinês simplificado, com o 
+objetivo de demonstrar que, apesar de serem idiomas distintos, eles compartilham diversas características,
+especialmente no que diz respeito aos seus caracteres. Para isso, utilizamos a teoria dos grafos para 
+representar e analisar as relações entre os idiomas por meio dos caracteres que possuem em comum.
+
+Em que medida os caracteres Han compartilhados entre o japonês e cada variante do chinês 
+apresentam contextos ortográficos semelhantes nos dicionários analisados?
+O resultado muda ao comparar o japonês com o chinês tradicional ou simplificado?
 
 A estrutura da rede importa porque o contexto de um caractere é definido pelos
 outros caracteres ligados a ele por palavras. O projeto permite explorar esses
