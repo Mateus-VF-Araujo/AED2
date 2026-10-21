@@ -17,7 +17,7 @@ notebook: [LOTUS.ipynb](LOTUS.ipynb).
 
 ## Links Complementares
 
-[LINK DO VÍDEO NO YOUTUBE](about:blank)
+[LINK DO VÍDEO NO YOUTUBE](https://www.youtube.com/watch?v=QiDZYlEnubY)
 
 [Visualização dos Grafos Interativos do Projeto](https://mateus-vf-araujo.github.io/grafos_AED2/)
 
